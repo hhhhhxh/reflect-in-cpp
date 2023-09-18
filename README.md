@@ -1,2 +1,1 @@
-# rigid
-reflect in c++
+# reflect in cpp
